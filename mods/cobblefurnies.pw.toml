@@ -1,0 +1,13 @@
+name = "CobbleFurnies"
+filename = "CobbleFurnies-neoforge-0.4.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "19b1365cb43f910563489808d4a79dc00c097c6b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6192227
+project-id = 1188698

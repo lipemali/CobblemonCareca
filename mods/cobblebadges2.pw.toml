@@ -1,0 +1,13 @@
+name = "CobbleBadges [Cobblemon Addon]"
+filename = "CobbleBadges-neoforge-3.0.0+Beta-3+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SyteL9Kr/versions/upggtLQG/CobbleBadges-neoforge-3.0.0%2BBeta-3%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "3a696c1225b281aaeb571fc0e9653a7aae3d70e2c438aeeec84efca59f27e7608f14ce950fe84433e321497984277587c12583c6d84287f22ed677f8e60c18b5"
+
+[update]
+[update.modrinth]
+mod-id = "SyteL9Kr"
+version = "upggtLQG"

@@ -1,0 +1,13 @@
+name = "Cobblemon Pokenav"
+filename = "cobblenav-neoforge-2.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bI8Nt3uA/versions/Fs21r3YD/cobblenav-neoforge-2.1.0.jar"
+hash-format = "sha512"
+hash = "ca0cc69c5ef36a4cb2f710a7d345d6a5b4de985a363f4cc29ed5a148f95c947e4eb0310af67d0269278bba15681d3532959497c41ac22d7ca226f0ec05e478b7"
+
+[update]
+[update.modrinth]
+mod-id = "bI8Nt3uA"
+version = "Fs21r3YD"
